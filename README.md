@@ -25,6 +25,7 @@
 - Hierarchical Clustering
 
 ## Repository Structure
+'''
 heart-attack-analysis-project/
 ├── code/
 │ └── association_rules.csv
@@ -41,6 +42,7 @@ heart-attack-analysis-project/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+'''
 
 ## How to Run
 1. Clone the repository
